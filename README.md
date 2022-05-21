@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Mello, I am pretty new to scripting, but learned some stuff and hope I can help you guys out
+- 
